@@ -1,2 +1,2 @@
-# generator
-ML project - generare ... da descrizioni di testo
+# generatore di indumenti
+ML project - generare indumenti da descrizioni di testo
